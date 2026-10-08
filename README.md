@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <strong>M.S. in Applied Data Science @ The University of Chicago</strong><br/>
-  Building analytical solutions at the intersection of finance, risk, and data.
+  <strong>M.S. Candidate in Applied Data Science @ The University of Chicago</strong><br/>
+  Credit & Financial Risk · Business Analytics · FinTech
 </p>
 
 <p align="center">
@@ -16,12 +16,14 @@
 
 ## About me
 
-I am an applied data science graduate student with a finance and credit-risk background. I enjoy translating messy financial and operational data into clear metrics, defensible analysis, and decision-ready stories.
+I am an applied data science graduate student with formal training in **credit management** and hands-on experience across **commercial banking, bond financing, investment banking, and economic policy research**. I turn complex financial and operational data into measurable risk signals, defensible models, and decision-ready recommendations.
 
-- **Risk analytics:** market risk, credit risk, volatility, model evaluation, and data-quality controls
-- **Business analytics:** KPI design, industry research, financial analysis, and executive-ready visualization
-- **FinTech & data:** reproducible pipelines, relational modeling, machine learning, and dashboard development
-- **How I work:** define the question → validate the data → build the analysis → communicate the decision
+| Finance foundation | Analytical training | Business impact |
+|---|---|---|
+| Credit risk, debt financing, due diligence, and financial analysis | Machine learning, statistical modeling, time series, and data engineering | KPI design, industry research, scenario analysis, and executive communication |
+| **FRM Part I passed** | Python, SQL, Tableau, and reproducible pipelines | Client presentations and decision briefs |
+
+> My approach: define the business question → validate the data → build and challenge the model → communicate the decision.
 
 ## Analytics toolkit
 
@@ -39,8 +41,15 @@ I am an applied data science graduate student with a finance and credit-risk bac
 | Risk & Finance | Analytics & Modeling | Data & Communication |
 |---|---|---|
 | Market and credit risk | EDA and feature engineering | ETL and data validation |
-| Return and volatility analysis | Classification and model evaluation | Star-schema data modeling |
-| Financial statement analysis | Time-series and scenario analysis | Dashboards and presentations |
+| Debt repayment and default analysis | Classification, OOT validation, AUC, KS, and PR-AUC | Star-schema data modeling |
+| Financial statement and scenario analysis | Time-series and threshold optimization | Tableau dashboards and executive presentations |
+
+## Selected experience
+
+- **Bank of China, Shaanxi Branch — Personal Banking Intern:** supported compliance and cross-border financial-service research; led a five-person study on international-student client acquisition and was recognized as an Outstanding Trainee.
+- **Hengtai Changcai Securities — Bond Financing Intern:** contributed to offering documents, financial due diligence, debt-repayment risk analysis, and exchange-review responses.
+- **Beijing Academy of Social Sciences — Research Assistant:** structured 127 digital-economy policy samples, applied topic clustering, developed KPI frameworks, and translated findings into Tableau-backed decision briefs.
+- **Shenwan Hongyuan Securities — Investment Banking Assistant:** used Wind data, peer analysis, financial modeling, and scenario testing to support industry research and enterprise-risk assessment.
 
 ## Featured project
 
@@ -65,9 +74,30 @@ Binance.US API  →  Parquet  →  MySQL  →  Python EDA  →  Tableau
   </a>
 </p>
 
+## Additional analytical work
+
+### Credit Default Prediction · Equipment Finance
+
+- Built and evaluated a logistic credit-risk model using FICO, account age, and financing variables
+- Used out-of-time validation with AUC, KS, and PR-AUC to test model stability
+- Optimized the decision threshold by balancing expected default loss against repayment profit
+
+### SureAttend · Attendance Prediction
+
+- Led an end-to-end machine-learning project using 1,861 behavioral records, expanded to 3,563 with synthetic-data techniques
+- Directed EDA, feature engineering, model comparison, and client-facing recommendations
+- Connected predictive findings to product and engagement decisions
+
+## Education & credentials
+
+- **The University of Chicago** — M.S. Candidate, Applied Data Science · Expected Dec 2026
+- **Xi'an International Studies University** — Credit Management · 90.8/100 · Ranked 2/31
+- **Credentials:** FRM Part I · Securities Market Laws & Regulations · IELTS 7.0
+- **Additional tools:** Wind, MATLAB, Stata, SPSS, and EViews
+
 ## What I am building toward
 
-I am interested in roles where finance, data, and decision-making meet—especially **Risk Analytics, Business Analytics, Credit Strategy, and FinTech**. My goal is to build work that is technically reliable, commercially useful, and easy for stakeholders to act on.
+I am interested in roles where finance, data, and decision-making meet—especially **Risk Analytics, Business Analytics, Credit Strategy, and FinTech**. I bring the quantitative depth to test a model, the financial context to challenge its assumptions, and the communication skills to turn its output into action.
 
 <p align="center">
   <sub>Analyze carefully • Validate assumptions • Communicate clearly</sub>
