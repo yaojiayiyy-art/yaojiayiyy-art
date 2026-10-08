@@ -84,11 +84,11 @@ Binance.US API  →  Parquet  →  MySQL  →  Python EDA  →  Tableau
 
 [Explore the full credit-risk project →](https://github.com/yaojiayiyy-art/credit-default-risk-modeling)
 
-### SureAttend · Attendance Prediction
+### SureAttend · Attendance Prediction *(In Progress)*
 
-- Led an end-to-end machine-learning project using 1,861 behavioral records, expanded to 3,563 with synthetic-data techniques
-- Directed EDA, feature engineering, model comparison, and client-facing recommendations
-- Connected predictive findings to product and engagement decisions
+- Currently leading an attendance-prediction project using 1,861 behavioral records, expanded to 3,563 rows with SDV-based synthetic-data techniques
+- Conducting EDA, feature engineering, and model evaluation while coordinating business requirements
+- Translating interim findings into client updates and product and engagement recommendations
 
 ## Education & credentials
 
