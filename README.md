@@ -76,11 +76,13 @@ Binance.US API  →  Parquet  →  MySQL  →  Python EDA  →  Tableau
 
 ## Additional analytical work
 
-### Credit Default Prediction · Equipment Finance
+### [Credit Default Risk Modeling · Device Financing](https://github.com/yaojiayiyy-art/credit-default-risk-modeling)
 
-- Built and evaluated a logistic credit-risk model using FICO, account age, and financing variables
-- Used out-of-time validation with AUC, KS, and PR-AUC to test model stability
-- Optimized the decision threshold by balancing expected default loss against repayment profit
+- Built an interpretable logistic probability-of-default baseline using FICO, borrower age, and financing variables
+- Used strict 2025 out-of-time validation with ROC-AUC, PR-AUC, KS, Brier score, and calibration diagnostics
+- Compared linear and nonlinear alternatives and translated predicted risk into an illustrative approval-threshold strategy
+
+[Explore the full credit-risk project →](https://github.com/yaojiayiyy-art/credit-default-risk-modeling)
 
 ### SureAttend · Attendance Prediction
 
