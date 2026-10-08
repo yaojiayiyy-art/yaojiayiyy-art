@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yaojiayiyy-art/crypto-market-risk-analytics">
+  <a href="https://github.com/jiayi28yao/crypto-market-risk-analytics">
     <img src="https://img.shields.io/badge/Featured_Project-Crypto_Market_Risk_Analytics-0B5963?style=for-the-badge&logo=github&logoColor=white" alt="Featured project" />
   </a>
   <img src="https://img.shields.io/badge/Open_to-Risk_%7C_Business_%7C_FinTech_Roles-0B3552?style=for-the-badge" alt="Open to opportunities" />
@@ -53,7 +53,7 @@ I am an applied data science graduate student with formal training in **credit m
 
 ## Featured project
 
-### [Crypto Market Risk Analytics](https://github.com/yaojiayiyy-art/crypto-market-risk-analytics)
+### [Crypto Market Risk Analytics](https://github.com/jiayi28yao/crypto-market-risk-analytics)
 
 An end-to-end analysis of BTC and BNB that combines a reproducible market-data pipeline with risk-focused Python analysis, MySQL dimensional modeling, and Tableau reporting.
 
@@ -69,20 +69,20 @@ Binance.US API  →  Parquet  →  MySQL  →  Python EDA  →  Tableau
 - Translated technical analysis into portfolio-ready risk insights and recommendations
 
 <p align="center">
-  <a href="https://github.com/yaojiayiyy-art/crypto-market-risk-analytics">
+  <a href="https://github.com/jiayi28yao/crypto-market-risk-analytics">
     <img src="https://img.shields.io/badge/Explore_the_full_project-0B5963?style=for-the-badge&logo=github&logoColor=white" alt="Explore the project" />
   </a>
 </p>
 
 ## Additional analytical work
 
-### [Credit Default Risk Modeling · Device Financing](https://github.com/yaojiayiyy-art/credit-default-risk-modeling)
+### [Credit Default Risk Modeling · Device Financing](https://github.com/jiayi28yao/credit-default-risk-modeling)
 
 - Built an interpretable logistic probability-of-default baseline using FICO, borrower age, and financing variables
 - Used strict 2025 out-of-time validation with ROC-AUC, PR-AUC, KS, Brier score, and calibration diagnostics
 - Compared linear and nonlinear alternatives and translated predicted risk into an illustrative approval-threshold strategy
 
-[Explore the full credit-risk project →](https://github.com/yaojiayiyy-art/credit-default-risk-modeling)
+[Explore the full credit-risk project →](https://github.com/jiayi28yao/credit-default-risk-modeling)
 
 ### SureAttend · Attendance Prediction *(In Progress)*
 
